@@ -1,2 +1,6 @@
 # vlsi-designing
-Projects done for Course: Intro to VLSI at the University of Illinois
+Projects done for Course: Intro to VLSI at the University of Illinois.
+
+1. basic-schematics: Created basic gate schematics and layouts for gates like NAND, NOR, XOR, etc. 
+
+2. AMD-Am2901-clone: Recreated the AMD Am2901 4-bitslice chip datapath and controller using complementary CMOS logic. Used source: The Am2900 Family Data Book, containing components: 16x4 bit 2-port RAM, Q-register, ALU, MUXes.
